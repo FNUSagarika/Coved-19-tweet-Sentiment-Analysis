@@ -1,5 +1,3 @@
-# Coved-19-tweet-Sentiment-Analysis
-
 # **COVID-19 Tweet Sentiment Analysis**  
 _Using Machine Learning and Deep Learning Techniques_  
 
