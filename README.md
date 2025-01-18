@@ -131,8 +131,3 @@ Execute the Jupyter Notebook to preprocess data, train models, and evaluate resu
 ## **Acknowledgments**  
 - Kaggle for providing the datasets.  
 - Libraries and tools that made this analysis possible.  
-- Guidance from professors and collaborators at Georgia State University.  
-
----
-
-Feel free to customize this template as needed. Once your GitHub repository is live, share the link, and I can review it for further suggestions!
