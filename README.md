@@ -103,28 +103,7 @@ Implemented and compared five models:
 
 2. **Challenge:** Handling missing data in the "Location" column.  
    **Solution:** Excluded the column due to limited relevance and high missing rates.  
-
 ---
-
-## **How to Use This Repository**  
-
-### **1. Clone the Repository**  
-```bash  
-git clone https://github.com/yourusername/covid19-tweet-sentiment-analysis.git  
-cd covid19-tweet-sentiment-analysis  
-```  
-
-### **2. Install Required Libraries**  
-Install the dependencies listed in `requirements.txt`:  
-```bash  
-pip install -r requirements.txt  
-```  
-
-### **3. Run the Code**  
-Execute the Jupyter Notebook to preprocess data, train models, and evaluate results.  
-
----
-
 
 ## **Acknowledgments**  
 - Kaggle for providing the datasets.  
