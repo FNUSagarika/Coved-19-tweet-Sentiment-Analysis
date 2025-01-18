@@ -41,7 +41,7 @@ This project addresses the following question:
 - **Datasets Source:** [Training & Testing Dataset](https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification/data)  
 - **Training Dataset:** `Corona_NLP_train.csv` (41,000 labeled tweets)  
 - **Testing Dataset:** `Corona_NLP_test.csv` (3,900 labeled tweets)  
-- **Evaluation Dataset:** `[COVID-19_tweets.csv](https://www.kaggle.com/datasets/gpreda/covid19-tweets)` (179,000 labeled tweets)  
+- **Evaluation Dataset:** [COVID-19_tweets](https://www.kaggle.com/datasets/gpreda/covid19-tweets) (179,000 labeled tweets)  
 
 ---
 
