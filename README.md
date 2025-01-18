@@ -3,11 +3,11 @@ _Using Machine Learning and Deep Learning Techniques_
 
 ## **Overview**  
 This project focuses on analyzing public sentiment during the COVID-19 pandemic by classifying tweets into five sentiment categories:  
-- **Extremely Negative**  
-- **Negative**  
-- **Neutral**  
-- **Positive**  
-- **Extremely Positive**  
+- **Extremely Negative** : Severe dissatisfaction, fear, or frustration related to health crises, policies, or economic struggles 
+- **Negative** : Moderate concerns or criticism
+- **Neutral** : Objective or informational content
+- **Positive** :Expressions of approval or satisfaction  
+- **Extremely Positive** :Strong optimism or joy
 
 The analysis leverages machine learning and deep learning models to understand public emotions, which can guide decision-making during crises like pandemics.
 
@@ -37,9 +37,9 @@ This project addresses the following question:
 
 ## **Data Description**  
 - **Datasets Source:** [Training & Testing Dataset](https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification/data)  
-- **Training Dataset:** `Corona_NLP_train.csv` (41,000 labeled tweets)  
-- **Testing Dataset:** `Corona_NLP_test.csv` (3,900 labeled tweets)  
-- **Evaluation Dataset:** [COVID-19_tweets](https://www.kaggle.com/datasets/gpreda/covid19-tweets) (179,000 labeled tweets)  
+- **Training Dataset:** `Corona_NLP_train.csv` (Contains over 41,000 labeled tweets categorized into predefined sentiment classes. Purpose: To train machine learning models to identify and analyze sentiment patterns effectively)
+- **Testing Dataset:** `Corona_NLP_test.csv` (Includes more than 3,900 labeled tweets with predefined sentiment classes. Purpose: To evaluate the accuracy and performance of the trained models on unseen data)  
+- **Evaluation Dataset:** [COVID-19_tweets](https://www.kaggle.com/datasets/gpreda/covid19-tweets) (Dataset containing over 179,000 tweets. Purpose: This dataset is utilized to evaluate the generalizability and robustness of the trained models when applied to unseen, real-world data)  
 
 ---
 
